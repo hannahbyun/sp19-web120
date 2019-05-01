@@ -1,0 +1,54 @@
+#aia {
+ text-align: right;
+}
+
+table{
+    border:1px solid #000;
+    width:940px;
+    border-collapse:collapse;
+    background-color: #fff; 
+    margin-left: 120px;
+}
+
+tr{
+    vertical-align: top;
+}
+
+td,th{
+    border: 1px dotted #000;
+    padding:.5em;
+}
+
+table.client{
+    margin: 40px 40px;
+}
+
+table.client th{
+    text-align: left;
+    width:33.33%;
+}
+
+table.audience {
+    margin: 40px 40px;   
+  
+}
+
+table.audience th{
+    text-align: left;
+    width:33.33%;
+}
+
+.c1{
+    width:430px;
+}
+    
+.c2{
+    width:200px;
+}
+
+.c3{
+    width:300px;
+}
+
+
+
